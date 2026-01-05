@@ -58,7 +58,7 @@ This project demonstrates an end-to-end workflow for A/B testing and experiment 
 ---
 
 ## Dashboard Screenshot
-![Dashboard Screenshot](dashboard/ab_testing_screenshot.png)
+[Dashboard Screenshot](dashboard/ab_testing_screenshot.png)
 
 ---
 
